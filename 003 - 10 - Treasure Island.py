@@ -4,6 +4,8 @@
 # Part of a Python Bootcamp - Beginner
 # 003 - 10 - Treasure Island
 
+# ASCII treasure from https://ascii.co.uk/art
+
 
 print('''
 *******************************************************************************
