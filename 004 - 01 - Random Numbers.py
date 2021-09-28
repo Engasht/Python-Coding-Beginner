@@ -5,7 +5,7 @@
 # 004 - 01 - random numbers
 
 import random
-import ConstantsModule
+import constantsmodule00401
 
 random_integer = random.randint(1, 10)
 print(f"A random integer between 1 and 10 (inclusive): {random_integer}")
@@ -19,4 +19,4 @@ print(f"A random float number between zero and 5 (including 0 but excluding 5): 
 love_score = random.randint(0, 100)
 print(f"Your Love Score is: {love_score}")
 
-print(f"PI = {ConstantsModule.pi}")
+print(f"PI = {constantsmodule00401.pi}")
